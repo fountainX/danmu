@@ -5,6 +5,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * @deprecated
+ * @author wxp
+ *
+ */
 public class QQVideoTest {
 
 private static Logger log = LoggerFactory.getLogger(QQVideoTest.class);
